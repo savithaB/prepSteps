@@ -1,0 +1,3 @@
+1. local variables have no access modifier;
+2. use conatinsValue to comapre values in map.
+3. use equals() to compare two entries of a map.
